@@ -31,7 +31,7 @@
 
 <p float="left">
   <a href="https://github.com/meness/"><img src="https://github-readme-stats-five-liard-45.vercel.app/api?username=meness&include_all_commits=true&hide=stars,contribs&show=reviews,prs_merged" alt="meness" /></a>
-  <a href="https://github.com/meness/"><img src="https://github-readme-stats-five-liard-45.vercel.app/?user=meness&mode=weekly&hide_longest_streak=true&card_width=350" alt="meness" /></a>
+  <a href="https://github.com/meness/"><img src="https://github-readme-stats-five-liard-45.vercel.app/api?username=meness&mode=weekly&hide_longest_streak=true&card_width=350" alt="meness" /></a>
 </p>
 
 ## Peek at my clean code skills
