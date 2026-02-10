@@ -1,23 +1,31 @@
-# Hey there <img src="https://github.com/meness/meness/blob/main/wave.gif?raw=true" width="24px"/> I'm Alex
+# 👋 Hi, I'm Alex
 
-### Full Stack Engineer | Technical Product Manager | OpenAI Enthusiast
+Senior Frontend / Web3 Engineer building scalable, user-focused products.
 
-<a href="mailto:aesshoferi@gmail.com"><img width="32" height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
-<a href="https://wellfound.com/u/alexiam/" target="_blank"><img width="32" height="32" src="https://cdn.simpleicons.org/wellfound/000000" alt="Wellfound" /></a>
+## 🚀 What I Do
+- Build high-performance React & Next.js applications
+- Design production-grade Web3 dApps (EVM / Solana)
+- Optimize UX, performance, and developer experience
+- Lead and mentor remote engineering teams
 
-<a href="https://github.com/meness/"><img align="right" style="width:16rem; height:auto;" src="https://github.com/meness/meness/blob/main/IMG_1312.jpeg?raw=true" alt="Hey there"/></a>
+## 🧠 Current Focus
+- AI-assisted developer tools
+- Web3 onboarding & wallet UX
+- Scalable frontend architectures
 
-👨‍💻 All about the front end for 6 years
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Web3:** Wagmi, Viem, Solidity, The Graph  
+**Backend:** Node.js, NestJS, PostgreSQL  
+**Cloud:** AWS, Vercel, Docker
 
-💼 Leading teams & product management vet
+## 📌 Featured Projects
+- 🔹 **Dr. Git** – AI-powered code review platform  
+- 🔹 **Homa Chat** – Scalable anonymous messaging system  
 
-🌱 Diving into Solidity & smart contracts now
-
-🎨 Aesthetics + Functionality = User Wow!
-
-⚡ Passionate coder, not just a job
-
-💬 Got questions? Ask ChatGPT or Google it <img src="https://github.com/meness/meness/blob/main/grin-sweat.gif?raw=true" width="16px"/>
+## 📫 Contact
+- Email: aesshoferi@gmail.com
+- Portfolio: https://network.bondex.app/p/alexiam
 
 ## Technologies I'm into and pretty good at
 
