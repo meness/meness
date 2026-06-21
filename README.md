@@ -1,5 +1,4 @@
-# Alex Eskandari — Full Stack Web3 Engineer(./banner.png)
-
+![Alex Eskandari — Full Stack Web3 Engineer](./banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Full+Stack+Web3+Engineer;EVM+%2B+Solana+%7C+DeFi+%7C+NFT+%7C+Cross-chain;Node.js+%7C+AWS+%7C+Real-time+Pipelines;AI+%2B+Web3+%7C+Open+Source)](https://git.io/typing-svg)
 
 > Building end-to-end blockchain products: React/Next.js frontends · Node.js backends · real-time data pipelines · cloud infra on AWS · EVM & Solana ecosystems
