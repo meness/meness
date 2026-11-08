@@ -1,145 +1,113 @@
-![Alex Eskandari — Full Stack Web3 Engineer](./banner.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Full+Stack+Web3+Engineer;EVM+%2B+Solana+%7C+DeFi+%7C+NFT+%7C+Cross-chain;Node.js+%7C+AWS+%7C+Real-time+Pipelines;AI+%2B+Web3+%7C+Open+Source)](https://git.io/typing-svg)
+<div align="center">
 
-> Building end-to-end blockchain products: React/Next.js frontends · Node.js backends · real-time data pipelines · cloud infra on AWS · EVM & Solana ecosystems
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · meness</sub></p>
+<h1>Alex</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full Stack Web3 Engineer · EVM + Solana · Node.js · AWS · DeFi · NFT · AI tools · Led teams of 8 · Open source · Finland 🇫🇮</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-7 years shipping production-grade dApps. Led distributed teams of up to 8 engineers. Still writing the code daily.
+<p><a href="https://github.com/meness">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/7955356?v=4" width="180" alt="Alex GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## What I build
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · MQL4 · MQL5 · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 3 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>3,241 contributions · 178 active days</p></td>
+</tr>
+</table>
 
-```
-Frontend        →   React / Next.js / TypeScript / TailwindCSS
-Backend         →   Node.js / NestJS / ElysiaJS / REST / GraphQL / WebSocket / BullMQ
-Blockchain      →   Wagmi / Viem / Solidity / Anchor / The Graph / IPFS / RainbowKit
-Wallets         →   Dynamic / Sequence / Privy / WalletConnect / SIWE — EVM + Solana
-Databases       →   PostgreSQL / MongoDB / Redis / MySQL
-Infrastructure  →   AWS (ECS, Lambda, RDS) / Docker / GitHub Actions / Vercel / Heroku
-AI              →   Vercel AI SDK / LLM workflow automation / GitHub Apps
-```
+<p><sub>Full Stack Web3 Engineer · EVM + Solana · Node.js · AWS · DeFi · NFT · AI tools · Led teams of 8 · Open source · Finland 🇫🇮</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-## Selected projects
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>3,241</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>45</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-### 🔬 Dr. Git — AI-powered code review (open source)
-AI-powered GitHub App that automates code review at scale using LLM reasoning.  
-Processes **1,000+ PRs/month** · reduces manual review time by **70%**  
-`TypeScript` `GitHub Apps` `Vercel AI SDK` `Node.js`
-
-> The core loop: receive PR diff → construct structured prompt → run LLM inference → post contextual review comments back to GitHub via the Apps API. Lightweight agentic workflow: sense → reason → act.
-
----
-
-### 💬 Homa Chat — High-throughput messaging backend
-Event-driven anonymous messaging system built for scale.  
-**100,000+ concurrent users** · abuse detection preventing **8,000+ incidents/day**  
-`ElysiaJS` `BullMQ` `Redis pub/sub` `PostgreSQL` `Prisma` `Docker` `Turborepo`
-
-> Architecture: BullMQ job queues for async message processing, Redis pub/sub for real-time delivery, PostgreSQL for persistence, ElysiaJS API layer. Designed for horizontal scaling.
-
----
-
-### 🏦 Altr — Web3 DeFi Lending Platform
-Asset-backed lending dApp built end-to-end — wallet integration, smart contract UI, collateral flows.  
-**2,000+ on-chain transactions** within first month post-launch  
-`Next.js` `TypeScript` `Viem` `Apollo GraphQL` `EVM` `WalletConnect` `TailwindCSS`
-
----
-
-### 🖼 Canto NFT Marketplace — Cold-start to $10k+ volume
-Architected from MVP, reached **$10k+ NFT trading volume in 6 weeks** on a chain with under 50k active wallets.  
-Real-time trading dashboards handling **10,000+ trades/day** via WebSockets and The Graph.  
-`Next.js` `TypeScript` `The Graph` `IPFS` `Pinata` `Wagmi` `Viem`
-
----
-
-### ⚙️ Luganodes — Enterprise Web3 Node Deployment
-One-click blockchain node deployment platform. **10+ nodes provisioned in production.**  
-Real-time dashboards for **1,000+ concurrent deployments/day**  
-`Next.js` `TypeScript` `Apollo GraphQL` `The Graph` `Viem` `EVM` `WalletConnect`
-
----
-
-## Production metrics across shipped work
-
-| System | Scale |
-|---|---|
-| Anonymous messaging backend | 100,000+ concurrent users |
-| AI code review automation | 1,000+ PRs/month, 70% time saved |
-| NFT marketplace trading dashboards | 10,000+ trades/day |
-| Web2 platform (StarryAI) | 100,000+ MAU |
-| AWS microservices uptime | 99.9% |
-| Cross-chain wallet connection failures reduced | 35% |
-| Auth latency reduction via SIWE/NextAuth | 350ms |
-
----
-
-## Experience timeline
-
-```
-2025 – 2026   Lead Full Stack Web3 Engineer @ ShowDown
-              Multi-chain e-sports platform · EVM + Solana · Team of 5
-
-2023 – 2025   Lead Full Stack Web3 Engineer @ NeoBase
-              Web3 consultancy · NFT, DeFi, cross-chain dApps · Team of 8
-
-2022          Lead Full Stack Engineer @ StarryAI
-              AI-powered creative platform · 100k+ MAU
-
-2021 – 2022   Full Stack Engineer @ Prestige
-              Web3 analytics infra · AWS microservices · real-time data pipelines
-
-2015 – 2020   Android · Backend · SEO — multiple client projects
-```
-
----
-
-## Tech stack
-
-**Blockchain & Web3**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat&logoColor=white)
-![Viem](https://img.shields.io/badge/Viem-1C1C1C?style=flat&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=flat&logo=thegraph&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-
-**Full Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Infrastructure & Data**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## Currently open to
-
-- Senior / Lead Full Stack Web3 Engineer roles
-- Full Stack Blockchain Engineer — DeFi, NFT, cross-chain infrastructure
-- AI + Web3 engineering roles
-- Remote · available across US / EU / Asia timezones · no visa sponsorship required (based in Finland)
-
-📬 aesshoferi@gmail.com
-
----
-
-<p float="left">
-  <a href="https://github.com/meness/"><img src="https://github-readme-stats-five-liard-45.vercel.app/api?username=meness&include_all_commits=true&hide=stars,contribs&show=reviews,prs_merged" alt="Alex's GitHub stats" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Alex GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&repos=meness%2Fslashi&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&repos=meness%2Fslashi&v=recruiter-projects-1&mode=dark" width="100%" alt="Alex selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/meness/slashi">slashi</a></h3>
+<p>Do anything in VS Code. Just type /. One keyboard-first popup for files, settings, extensions, Git, terminal, project scripts, AI and your own command</p>
+<p><sub>TypeScript · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/meness/slashi">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Alex technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>MQL4</strong><br /><sub>28% of public code</sub></td>
+<td width="20%" align="center"><strong>MQL5</strong><br /><sub>27% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>26% of public code</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=meness&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F7955356%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Alex contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/meness">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Alex · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
